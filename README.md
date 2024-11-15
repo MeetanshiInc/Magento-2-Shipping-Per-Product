@@ -51,11 +51,11 @@ To install the Magento 2 Shipping Per Product Extension to store follow the foll
 
 ### **Step 1:** 
 
-### Extract the zip folder and upload our extension to the root of your Magento 2 directory via FTP.
+Extract the zip folder and upload our extension to the root of your Magento 2 directory via FTP.
 
 ### **Step 2:**
 
-### Login to your SSH and run below commands step by step:
+Login to your SSH and run below commands step by step:
 
 * php bin/magento setup:upgrade  
 * For Magento version 2.0.x to 2.1.x \- php bin/magento setup:static-content:deploy  
@@ -91,7 +91,7 @@ To configure the Magento 2 Shipping Per Product extension, log into the Magento 
 * **Maximum Order Amount:** Define the maximum order amount allowed for using this shipping method.  
 * **Sort Order:** Set the display order for this shipping method among others
 
-### Step 2: A Shipping Rates for Individual Products
+### Step 2: Add Shipping Rates for Individual Products
 
 ![2_Set-Shipping-Rate-for-Product](https://github.com/user-attachments/assets/15ef8cfd-5525-4844-a137-27d0ea6b1be0)
 
